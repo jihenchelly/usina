@@ -1,0 +1,9 @@
+<div class="new-items">
+			 <div class="item1">
+				 <a href="products.html"><img src="images/s1.jpg" alt=""/></a>
+				 <div class="item-info">
+					 <h4><a href="products.html">Clocks Collection</a></h4>
+					 <span>ID: SR5421</span>
+					 <a href="single.html">Buy Now</a>
+				 </div>
+			 </div>
